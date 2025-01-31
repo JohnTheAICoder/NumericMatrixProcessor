@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Numeric Matrix Processor (Kotlin)/*
+!/Numeric Matrix Processor (Kotlin)/task/
+/Numeric Matrix Processor (Kotlin)/task/*
+!/Numeric Matrix Processor (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/The Math library/Fractional part/out/
+/Topics/The Math library/Fractional part/out/production/classes/
+/Topics/The Math library/Heron's formula/out/
+/Topics/The Math library/Heron's formula/out/production/classes/
+/Topics/The Math library/Quadratic equation/out/
+/Topics/The Math library/Quadratic equation/out/production/classes/
